@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\Hangman.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\Program.cs" Line="18" Column="32" />
+      <File FileName="Assets\Resources\Scripts\Hangman.cs" Line="69" Column="94" />
+      <File FileName="Assets\Resources\Scripts\Outcome.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\Player.cs" Line="18" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
